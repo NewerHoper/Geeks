@@ -1,7 +1,7 @@
 package main
 
 import (
-	zc "bitbucket.org/ai69/zapcfg"
+	zc "log"
 	"go.uber.org/zap"
 )
 
